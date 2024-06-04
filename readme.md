@@ -4,4 +4,4 @@
 
 [Yritys Oy Webbisivut](https://jounijokelainen.github.io/ghpages2/)
 
-[![Logo](/atkfirma_logo.png "Atk firman logo")]
+![Logo](/atkfirma_logo.png "Atk firman logo")
